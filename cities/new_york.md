@@ -139,4 +139,4 @@ Below are list of some fams! That I explored NYC with.
   - [Steve Friedman]()
   - [Wambui Kinya]()
 
-  [Manhattan Skyline Sketch]: ../_static/manhattan-skyline-sketch.gif "Manhattan Skyline Sketch"
+  [Manhattan Skyline Sketch]: ../_static/manhattan-skyline-sketch.jpg "Manhattan Skyline Sketch"
