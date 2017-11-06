@@ -34,6 +34,7 @@
 |               | Dim Sum **@Nom Wah Tea Parlour**                  |
 |               | Oxtail Noodle **@Spicy Village**                  |
 |               | Steak **@The Cellar**                             |
+|               | BBQ **@Virgils, Times Square**                    |
 |               | **@Ramen-ya**                                     |
 |               | **@Pok Pok**                                      |
 |               | **@Neko Cafe**                                    |
@@ -55,6 +56,7 @@
 |               | The Irish American Pub                            |
 |               | Soft Ball **@Central Park**                       |
 |               | Base Ball **@Yankee Stadium**                     |
+|               | Golf **@Chelsea Piers**                           |
 |               | Soccer **@Red Bull Stadium**                      |
 |               | Painting **@Highline**                            |
 |               | **@@Woodland**                                    |
