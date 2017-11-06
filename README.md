@@ -15,4 +15,4 @@
   - [New York City][]
 
   [Tour Sketch]: /_static/tour-sketch.gif "Tour Sketch"
-  [New York City]: "https://github.com/akinjide/places/blob/master/cities/new_york.md"
+  [New York City]: https://github.com/akinjide/places/blob/master/cities/new_york.md
