@@ -113,7 +113,7 @@
 
 ## Explorers
 
-Below are list of some fams! That I explored NYC with.
+Below are list of some fams! That explored NYC with me.
 
   - [Akin Dairo]()
   - [Becca Kahn]()
