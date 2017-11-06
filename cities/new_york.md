@@ -11,9 +11,9 @@
 
 ## Legend
 
-@ Location
-@@ Night Life
-@@@ City to vist when in NYC
+- @ Location
+- @@ Night Life
+- @@@ City to vist when in NYC
 
 ---
 
