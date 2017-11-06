@@ -7,7 +7,7 @@
 
 
 ## Links
-  - [Contributors](#Contributors)
+  - [Explorers](#Explorers)
 
 ## Legend
 
