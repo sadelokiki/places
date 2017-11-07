@@ -22,6 +22,7 @@
 | Food          | Cheese Steak                                      |
 |               | Sausages                                          |
 |               | French Toast                                      |
+|               | Tacos                                             |
 |               | Brisket and Baked Beans **@Fatte Sau**            |
 |               | Thai Food **@Lovely Day**                         |
 |               | Pizza **@Robertas**                               |
