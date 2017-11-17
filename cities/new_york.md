@@ -36,6 +36,7 @@
 |               | Oxtail Noodle **@Spicy Village**                  |
 |               | Steak **@The Cellar**                             |
 |               | BBQ **@Virgils, Times Square**                    |
+|               | **@Mr Chow**                                      |
 |               | **@Ramen-ya**                                     |
 |               | **@Pok Pok**                                      |
 |               | **@Neko Cafe**                                    |
