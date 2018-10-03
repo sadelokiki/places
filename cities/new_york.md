@@ -1,6 +1,6 @@
 # New York
 
-*If you’re traveling to NYC and you’d like to explore fun stuffs*
+*If you’re traveling to NYC and you’d like to explore fun stuff*
 
 
 ![Manhattan Skyline Sketch][]
